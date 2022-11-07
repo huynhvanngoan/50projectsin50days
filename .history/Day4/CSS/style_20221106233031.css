@@ -42,10 +42,10 @@ body {
     outline: none;
 }
 
-.search.active .input{
+.search.onmouseenter .input{
     width: 200px;
 }
 
-.search.active .btn {
+.search.onmouseenter .btn {
     transform: translateX(200px);
 }

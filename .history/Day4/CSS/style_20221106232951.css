@@ -42,7 +42,7 @@ body {
     outline: none;
 }
 
-.search.active .input{
+.search.onmouseenter .input{
     width: 200px;
 }
 
